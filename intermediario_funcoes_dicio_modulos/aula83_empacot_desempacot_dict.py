@@ -46,3 +46,5 @@ configuracoes = {
 }
 
 mostro_argumentos_momeados(**configuracoes)
+
+print
